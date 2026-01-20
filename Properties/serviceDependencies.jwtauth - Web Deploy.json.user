@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "apis1": {
+      "restored": true,
+      "restoreTime": "2026-01-20T05:03:10.5505634Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2026-01-20T05:04:10.1703413Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "e7ad0d73-c424-4da7-be58-84cdd28db47b"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "JWTPractice20260120102748ResourceGroup"
+    },
+    "apis1.resourceGroupName": {
+      "Name": "apis1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "JWTPractice20260120102748ResourceGroup"
+    },
+    "apis1.subscriptionId": {
+      "Name": "apis1.subscriptionId",
+      "Type": "subscription",
+      "Value": "e7ad0d73-c424-4da7-be58-84cdd28db47b"
+    },
+    "mssql1.serviceConnectorResourceGroupName": {
+      "Name": "mssql1.serviceConnectorResourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "JWTPractice20260120102748ResourceGroup"
+    }
+  }
+}
